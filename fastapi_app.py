@@ -1,4 +1,4 @@
-
+uvicorn fastapi_app:app --reload
 
 from __future__ import annotations
 
