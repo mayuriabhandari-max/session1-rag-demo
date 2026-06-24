@@ -9,6 +9,8 @@ venv/
 env/
 .python-version
 .pytest_cache/
+github_actions_key
+github_actions_key.pub
 .mypy_cache/
 .ruff_cache/
 .coverage
